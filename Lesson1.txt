@@ -1,0 +1,12 @@
+
+創新專案
+ng new (project name)
+
+跑伺服器
+ng serve
+
+創component
+ng g c (name)
+
+
+
